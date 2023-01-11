@@ -38,7 +38,7 @@ jobs:
         uses: docker/login-action@v1 
         with:
           username: koloif
-          password: repytwjd0
+          password: Repytwjd0
 
       - name: Push to Docker Hub
         uses: docker/build-push-action@v2 
